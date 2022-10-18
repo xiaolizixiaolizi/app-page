@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0deeb0"],{8860:function(e,n,o){"use strict";o.r(n);var t=function(){var e=this,n=e._self._c;return n("div",[e._v(" HkCouponListDemo Page ")])},u=[],a={name:"HkCouponListDemo",data(){return{}}},s=a,c=o("0b56"),i=Object(c["a"])(s,t,u,!1,null,"82c347fe",null);n["default"]=i.exports}}]);

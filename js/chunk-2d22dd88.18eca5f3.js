@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dd88"],{f8dd:function(n,o,e){"use strict";e.r(o);var t=function(){var n=this,o=n._self._c;return o("div",[n._v(" HkGoodsActionDemo Page ")])},d=[],c={name:"HkGoodsActionDemo",data(){return{}}},a=c,s=e("0b56"),u=Object(s["a"])(a,t,d,!1,null,"3c0b604f",null);o["default"]=u.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0decc8"],{"86d8":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e._self._c;return n("div",[e._v(" HkNoticeBarDemo Page ")])},c=[],o={name:"HkNoticeBarDemo",data(){return{}}},r=o,u=t("0b56"),d=Object(u["a"])(r,a,c,!1,null,"16278d60",null);n["default"]=d.exports}}]);

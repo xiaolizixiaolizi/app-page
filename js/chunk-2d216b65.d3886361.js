@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d216b65"],{c442:function(e,a,n){"use strict";n.r(a);var t=function(){var e=this,a=e._self._c;return a("div",[e._v(" HkRateDemo Page ")])},u=[],c={name:"HkRateDemo",data(){return{}}},o=c,r=n("0b56"),s=Object(r["a"])(o,t,u,!1,null,"a8d32a86",null);a["default"]=s.exports}}]);

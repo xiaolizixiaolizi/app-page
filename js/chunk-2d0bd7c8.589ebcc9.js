@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd7c8"],{"2bce":function(a,e,n){"use strict";n.r(e);var t=function(){var a=this,e=a._self._c;return e("div",[a._v(" HkContactCardDemo Page ")])},c=[],o={name:"HkContactCardDemo",data(){return{}}},r=o,u=n("0b56"),b=Object(u["a"])(r,t,c,!1,null,"b1ebebaa",null);e["default"]=b.exports}}]);
